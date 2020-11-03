@@ -1,0 +1,30 @@
+body {
+    background-color: antiquewhite;
+    margin: 10px;
+}
+
+h1 {
+    
+    background-color:brown;
+    margin: 10px;
+    color:white;
+    font-style:oblique;
+}
+h2 {
+    background-color:darksalmon;
+    margin: 10px;
+}
+p {
+background-color:skyblue;
+margin: 10px;
+color:black;
+}
+
+table {
+background-color: orange;
+margin: 10px;
+}
+nav {
+background-color:darksalmon;
+margin: 10px;
+}
